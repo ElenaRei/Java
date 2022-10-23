@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class HW2210 {
     void getcoffee(int button){
 
-
         switch (button){
         case 1-> System.out.println("Приготовление эспрессо");
         case 2 -> System.out.println("Приготовление американо - эспрессо + добавление воды");
